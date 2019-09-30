@@ -1,2 +1,1 @@
-
-    <script>alert('1');</script>
+[some text](javascript:alert('1'))
